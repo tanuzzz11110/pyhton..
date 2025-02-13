@@ -1,0 +1,14 @@
+n = str(input("enter ur name:"))
+print(n.upper())
+print(n.lower())
+print(n.capitalize())
+print(n.swapcase())
+print(n.isalnum())
+print(n.islower())
+o = str(input("enter ur name;"))
+print(o.isupper())
+p = (" ")
+print(p.isspace())
+q = ("The Animal")
+print(q.tittle())\
+
