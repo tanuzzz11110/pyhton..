@@ -1,0 +1,11 @@
+s = "hello world"
+print(s.find("res"))
+
+k = "the animal the"
+print(k.replace("the","is"))
+print(s.count("l"))
+r = "helo helo"
+print(r.strip())
+z = "the"
+print(z.zfill(9))
+print()
